@@ -1,3 +1,3 @@
 # MyfirstRepo
 This is my first git repository. <br>
-Author - ARyan kumar
+Author - Aryan kumar
